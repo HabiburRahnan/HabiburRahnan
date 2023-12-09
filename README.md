@@ -35,11 +35,11 @@
 
 
 ## :eyes: Current overview
-- 🔭 I’m currently working on MERN Stack.
-- 🌱 I’m currently learning Next.JS
-👯 I’m looking to collaborate on: Exciting MERN stack projects .
-🤔 I’m looking for help with: Optimizing performance in React applications and exploring advanced MongoDB features.
-💬 Ask me about: Anything related to MERN stack development, front-end design,.
-📫 How to reach me: Feel free to connect via email at [habiburrahmanofficial157@gmail.com] or through LinkedIn.
-😄 Pronouns: He/Him
-⚡ Fun fact: I love experimenting with new recipes in my free time and enjoy the occasional hiking adventure.
+### 🔭 I’m currently working on MERN Stack.
+### 🌱 I’m currently learning Next.JS
+### 👯 I’m looking to collaborate on: Exciting MERN stack projects .
+### 🤔 I’m looking for help with: Optimizing performance in React applications and exploring advanced MongoDB features.
+### 💬 Ask me about: Anything related to MERN stack development, front-end design.
+### 📫 How to reach me: Feel free to connect via email at [habiburrahmanofficial157@gmail.com] or through LinkedIn.
+### 😄 Pronouns: He/Him
+### ⚡ Fun fact: I love experimenting with new recipes in my free time and enjoy the occasional hiking adventure.
