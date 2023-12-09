@@ -1,9 +1,18 @@
-https://i.ibb.co/MsfnQh0/Blue-And-White-Modern-Minimal-Business-Channel-Youtube-Banner.png
+<a href="https://www.facebook.com/profile.php?id=100047717885188">
+<img src="https://i.ibb.co/MsfnQh0/Blue-And-White-Modern-Minimal-Business-Channel-Youtube-Banner.png" />
+</a>
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HabiburRahnan&theme=dark)](https://git.io/streak-stats)
+## :chart_with_upwards_trend: Current Stats
 
+<br />
+<p width="60%" align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HabiburRahnan&theme=dark)](https://git.io/streak-stats)
+</p>
+
+
+## :eyes: Current overview
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
