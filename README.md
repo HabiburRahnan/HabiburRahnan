@@ -1,4 +1,4 @@
-![Uploading Blue And White Modern Minimal Business Channel Youtube Banner.png…]()
+https://i.ibb.co/MsfnQh0/Blue-And-White-Modern-Minimal-Business-Channel-Youtube-Banner.png
 
 
 
