@@ -28,7 +28,7 @@
 <img src="https://i.ibb.co/ThZx6cR/tailwind.png"/>
 <img src="https://i.ibb.co/kXkSD9P/Bootsrap.png"/>
 </p>
-<p align="flex center">
+<p align="center">
 <img src="https://i.ibb.co/sRCXNGH/firebase.png"/>
 <img src="https://i.ibb.co/HzPtmMB/node.png"/>
 <img src="https://i.ibb.co/hDHJjrK/express.png"/>
